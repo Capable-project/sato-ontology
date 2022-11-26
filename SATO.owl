@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+<rdf:RDF xmlns="https://w3id.org/CAPABLE/ontologies/SATO#"
      xml:base="https://w3id.org/CAPABLE/ontologies/SATO"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:obo="http://purl.obolibrary.org/obo/"
@@ -13,9 +13,9 @@
      xmlns:schema="https://schema.org/"
      xmlns:Property="https://www.wikidata.org/wiki/Property:"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
-    <Ontology rdf:about="https://w3id.org/CAPABLE/ontologies/SATO">
-        <imports rdf:resource="http://humanbehaviourchange.org/ontology/bcio.owl"/>
-    </Ontology>
+    <owl:Ontology rdf:about="https://w3id.org/CAPABLE/ontologies/SATO">
+        <owl:imports rdf:resource="http://humanbehaviourchange.org/ontology/bcio.owl"/>
+    </owl:Ontology>
     
 
 
