@@ -13,9 +13,9 @@
      xmlns:schema="https://schema.org/"
      xmlns:Property="https://www.wikidata.org/wiki/Property:"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
-    <owl:Ontology rdf:about="https://w3id.org/CAPABLE/ontologies/SATO">
-        <owl:imports rdf:resource="http://humanbehaviourchange.org/ontology/bcio.owl"/>
-    </owl:Ontology>
+    <Ontology rdf:about="https://w3id.org/CAPABLE/ontologies/SATO">
+        <imports rdf:resource="http://humanbehaviourchange.org/ontology/bcio.owl"/>
+    </Ontology>
     
 
 
