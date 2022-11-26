@@ -1,2 +1,4 @@
-# sato-ontology
-The SATO ontology
+# SATO (IDEAS expAnded wiTh BCIO)
+## Workflow for designers of patient-centered mobile health behaviour change intervention applications
+
+Designing effective theory-driven digital behaviour change interventions (DBCI) is a challenging task. To ease the design process, and assist with knowledge sharing and evaluation of the DBCI, we propose the SATO (IDEASexpAnded wiTh BCIO) design workflow based on the IDEAS (Integrate, Design, Assess, and Share) framework and aligned with the Behaviour Change Intervention Ontology (BCIO). BCIO is a structural representation of the knowledge in behaviour change domain supporting evaluation of behaviour change interventions (BCIs) but it is not straightforward to utilise it during DBCI design. IDEAS (Integrate, Design, Assess, and Share) framework guides multi-disciplinary teams through the mobile health (mHealth) application development life-cycle but it is not aligned with BCIO entities. SATO couples BCIO entities with workflow steps and extends IDEAS Integrate stage with consideration of customisation and personalisation. The SATO ontology provides the extensions of BCIO along with examples of a BCI Scenario of Fatigue Reduction.
